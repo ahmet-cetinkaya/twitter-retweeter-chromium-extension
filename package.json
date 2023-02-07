@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-typescript-starter",
+  "name": "twitter-retweeter",
   "version": "1.0.0",
-  "description": "chrome-extension-typescript-starter",
+  "description": "Auto retweet on twitter with chrome extension",
   "main": "index.js",
   "scripts": {
     "watch": "webpack --config webpack/webpack.dev.js --watch",
@@ -10,13 +10,14 @@
     "test": "npx jest",
     "style": "prettier --write \"src/**/*.{ts,tsx}\""
   },
-  "author": "",
+  "author": "ahmetcetinkaya <ahmetcetinkaya7@outlook.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chibat/chrome-extension-typescript-starter.git"
+    "url": "https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension.git"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
