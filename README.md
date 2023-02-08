@@ -1,11 +1,17 @@
 # Twitter Retweeter Chromium Extension
 
-Automatically retweet tweets found on tabs.
+Twitter Retweeter automatically retweets posts from a page.
+
+## How to use the Twitter Retweeter Extension?
+Step 1. Login your Twitter account on twitter.com
+Step 2. Search for a term or hashtag or user profile
+Step 3. Click on the icon resembling a blue retweet to  start retweeting
 
 # Install
 
-- Download : https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension/releases/tag/lastest
-
+- Download :
+  - https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension/releases/tag/lastest
+  - Chrome Store: Soon
 <img src="https://user-images.githubusercontent.com/53148314/217337723-d3c60ce4-36ce-4d23-b08c-f1016d632811.png" width="500">
 <img src="https://user-images.githubusercontent.com/53148314/217337733-dac6a5fd-79e5-4ffd-bed1-406133266a7c.png" width="500">
 <img src="https://user-images.githubusercontent.com/53148314/217337781-66e41c51-d20c-4442-bb96-759167bdbcf7.png" width="500">
