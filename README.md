@@ -26,8 +26,8 @@ Step 3. Click on the icon resembling a blue retweet to  start retweeting
 
 # Install
 
-- Download :
-  - https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension/releases/tag/lastest
+- İndir / Download :
+  - [https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension/releases/tag/lastest](https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension/releases/download/lastest/Twitter.Retweeter.v1.0.zip)
   - Chrome Store: Soon
 <img src="https://user-images.githubusercontent.com/53148314/217337723-d3c60ce4-36ce-4d23-b08c-f1016d632811.png" width="500">
 <img src="https://user-images.githubusercontent.com/53148314/217337733-dac6a5fd-79e5-4ffd-bed1-406133266a7c.png" width="500">
