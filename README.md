@@ -2,7 +2,7 @@
 
 Sayfada bulunan tweetleri belirli aralıklarla retweet'ler. Twitter penceresini bir kenarda tutup kullanabilirsiniz. Arka sekmeye veya alta aldığınızda bir süre sonra sekme uykuya alınabiliyor.
 
-[Kurulum yönelgelerinden](https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension#install) şimdilik elle chrome tabanlı tarayıcılara ekleyebilirsiniz.
+[Kurulum yönelgelerinden](https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension#y%C3%BCkleme--install) şimdilik elle chrome tabanlı tarayıcılara ekleyebilirsiniz.
 
 ## Twitter Retweeter eklentisini nasıl kullanabilirim?
 Adım 1. twitter.com üzerinden hesabınıza giriş yapın
