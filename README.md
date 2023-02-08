@@ -4,7 +4,9 @@ Twitter Retweeter automatically retweets posts from a page.
 
 ## How to use the Twitter Retweeter Extension?
 Step 1. Login your Twitter account on twitter.com
+
 Step 2. Search for a term or hashtag or user profile
+
 Step 3. Click on the icon resembling a blue retweet to  start retweeting
 
 # Install
