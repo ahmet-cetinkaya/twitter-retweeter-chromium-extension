@@ -2,7 +2,7 @@
 
 Sayfada bulunan tweetleri belirli aralıklarla retweet'ler. Twitter penceresini bir kenarda tutup kullanabilirsiniz. Arka sekmeye veya alta aldığınızda bir süre sonra sekme uykuya alınabiliyor.
 
-[Kurulum yönelgelerinden](https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension#install) şimdilik elle chrome tabanlı tarayıcılara ekleyebilisiniz.
+[Kurulum yönelgelerinden](https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension#install) şimdilik elle chrome tabanlı tarayıcılara ekleyebilirsiniz.
 
 ## Twitter Retweeter eklentisini nasıl kullanabilirim?
 Adım 1. twitter.com üzerinden hesabınıza giriş yapın
@@ -13,18 +13,7 @@ Adım 3. Tarayıcının sağ üstünde bulunan mavi retweet ikonuna tıklayın
 
 Belirli aralıklarla sayfada bulunan tweet'leri retweet'leyecektir.
 
----
-
-Twitter Retweeter automatically retweets posts from a page.
-
-## How to use the Twitter Retweeter Extension?
-Step 1. Login your Twitter account on twitter.com
-
-Step 2. Search for a term or hashtag or user profile
-
-Step 3. Click on the icon resembling a blue retweet to  start retweeting
-
-# Install
+## Yükleme / Install
 
 - İndir / Download :
   - [https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension/releases/tag/lastest](https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension/releases/download/lastest/Twitter.Retweeter.v1.0.zip)
@@ -34,6 +23,18 @@ Step 3. Click on the icon resembling a blue retweet to  start retweeting
 <img src="https://user-images.githubusercontent.com/53148314/217337781-66e41c51-d20c-4442-bb96-759167bdbcf7.png" width="500">
 <img src="https://user-images.githubusercontent.com/53148314/217337788-d12ca034-c47b-4d46-a4d3-093d320e06fd.png" width="500">
 <img src="https://user-images.githubusercontent.com/53148314/217337809-3b271e01-3863-436f-8b95-d14786283d8a.png" width="500">
+
+---
+
+## EN
+Twitter Retweeter automatically retweets posts from a page.
+
+## How to use the Twitter Retweeter Extension?
+Step 1. Login your Twitter account on twitter.com
+
+Step 2. Search for a term or hashtag or user profile
+
+Step 3. Click on the icon resembling a blue retweet to  start retweeting
 
 # Project
 
