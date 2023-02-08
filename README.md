@@ -1,5 +1,20 @@
 # Twitter Retweeter Chromium Extension
 
+Sayfada bulunan tweetleri belirli aralıklarla retweet'ler. Twitter penceresini bir kenarda tutup kullanabilirsiniz. Arka sekmeye veya alta aldığınızda bir süre sonra sekme uykuya alınabiliyor.
+
+[Kurulum yönelgelerinden](https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension#install) şimdilik elle chrome tabanlı tarayıcılara ekleyebilisiniz.
+
+## Twitter Retweeter eklentisini nasıl kullanabilirim?
+Adım 1. twitter.com üzerinden hesabınıza giriş yapın
+
+Adım 2. Twitter üzerinde bir terimi, hashtag'i veya belirli kullanıcıları üzerinde gelişmiş arama veya bir kullanıcı profilini açın
+
+Adım 3. Tarayıcının sağ üstünde bulunan mavi retweet ikonuna tıklayın
+
+Belirli aralıklarla sayfada bulunan tweet'leri retweet'leyecektir.
+
+---
+
 Twitter Retweeter automatically retweets posts from a page.
 
 ## How to use the Twitter Retweeter Extension?
