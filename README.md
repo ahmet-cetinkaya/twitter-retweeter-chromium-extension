@@ -2,8 +2,6 @@
 
 Sayfada bulunan tweetleri belirli aralıklarla retweet'ler. Twitter penceresini bir kenarda tutup kullanabilirsiniz. Arka sekmeye veya alta aldığınızda bir süre sonra sekme uykuya alınabiliyor.
 
-[Kurulum yönelgelerinden](https://github.com/ahmet-cetinkaya/twitter-retweeter-chromium-extension#y%C3%BCkleme--install) şimdilik elle chrome tabanlı tarayıcılara ekleyebilirsiniz.
-
 ## Twitter Retweeter eklentisini nasıl kullanabilirim?
 1. twitter.com üzerinden hesabınıza giriş yapın
 2. Twitter üzerinde bir terimi, hashtag'i veya belirli kullanıcıları üzerinde gelişmiş arama veya bir kullanıcı profilini açın
@@ -12,14 +10,8 @@ Sayfada bulunan tweetleri belirli aralıklarla retweet'ler. Twitter penceresini 
 
 Belirli aralıklarla sayfada bulunan tweet'leri retweet'leyecektir.
 
-## Yükleme / Install
-
-- İndir / Download : https://chrome.google.com/webstore/detail/auto-tweet-retweeter/hpfmhdpddaningippbihoomnjdihpfki
-<img src="https://user-images.githubusercontent.com/53148314/217337723-d3c60ce4-36ce-4d23-b08c-f1016d632811.png" width="500">
-<img src="https://user-images.githubusercontent.com/53148314/217337733-dac6a5fd-79e5-4ffd-bed1-406133266a7c.png" width="500">
-<img src="https://user-images.githubusercontent.com/53148314/217337781-66e41c51-d20c-4442-bb96-759167bdbcf7.png" width="500">
-<img src="https://user-images.githubusercontent.com/53148314/217337788-d12ca034-c47b-4d46-a4d3-093d320e06fd.png" width="500">
-<img src="https://user-images.githubusercontent.com/53148314/217337809-3b271e01-3863-436f-8b95-d14786283d8a.png" width="500">
+## Install
+https://chrome.google.com/webstore/detail/auto-tweet-retweeter/hpfmhdpddaningippbihoomnjdihpfki
 
 ---
 
